@@ -29,7 +29,7 @@ if (!$data) {
   print "
     <div style='width: 100%; display: flex; justify-content: center; flex-direction: column'>
     <h1>Pick a picture</h1>
-    <form method='GET' action='unit08.php' style='display: flex; width: fit-content; flex-direction: column'>
+    <form method='GET' action='unit08a.php' style='display: flex; width: fit-content; flex-direction: column'>
       <div style='display: flex'>
         <div style='width: 100px;'>
           <p>Dog</p>
